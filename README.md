@@ -2,7 +2,7 @@
 - pwd  //Present working directory
 - ls  // list to see in the present directory
 - ls -l  // everything
-- ls .la  // hidden files
+- ls -la  // hidden files
 - mkdir  // make directory
 - touch file-name (i.e.index.html) //create file
 - nano file-name (i.e.index.html)  //Open file
