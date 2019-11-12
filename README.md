@@ -25,6 +25,7 @@
 - For first time configaration of git:
 - git config --global user.name ‘yourname’git config --global user.email ‘youremail’
 
+
 - git init //this comand for initializa the repository 
 - git status // to know the status of the repogit add filename (i.e. index.html) : file/directory add to the staging
 - git add . // add everythinggit commit -m "commit name" : to commitgit log : to see the log
