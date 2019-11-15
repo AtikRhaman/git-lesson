@@ -36,3 +36,6 @@
 - git checkout branch-name (i.e. branch-test)  //Swith to branch
 - git branch -m branch-test test //rename the branch name (m= message)
 - git merge branch-name (i.e dev)  //to merge the branch with each other
+
+## Introduction to git : https://github.com/Asabeneh/Git-and-Github
+## Git and gitHub https://git-scm.com/book/en/v2
