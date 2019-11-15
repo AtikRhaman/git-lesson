@@ -34,6 +34,7 @@
 - git branch  //To see where I am
 - git branch branch-name (i.e. branch-test)  //Create new branch
 - git checkout branch-name (i.e. branch-test)  //Swith to branch
+- git checkout -b branch name // create branch and switch at the same time
 - git branch -m branch-test test //rename the branch name (m= message)
 - git merge branch-name (i.e dev)  //to merge the branch with each other
 
