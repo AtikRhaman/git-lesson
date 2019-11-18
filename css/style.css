@@ -1,0 +1,55 @@
+* {}
+
+.headred-item {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+    line-height: 100px;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+#item-one {
+    background: red;
+}
+
+#item-two {
+    background: yellow;
+}
+
+#item-three {
+    background: green;
+}
+
+span {
+    width: 100px;
+    height: 50px;
+    padding: 10px;
+    display: inline-block;
+    background: grey;
+}
+
+body {
+    background: #cccccc;
+    border: 1px solid red;
+}
+
+section {
+    padding: 30px;
+}
+
+img {
+    width: 500px;
+    height: 200px;
+    border: 1px solid #000000;
+}
+
+textarea {
+    resize: none;
+}
+
+legend {
+    text-align: center;
+}
