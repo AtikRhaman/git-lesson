@@ -42,7 +42,7 @@
 - git push -d remote-name(i.e. origin) branch-name // to dellete a remote branch
 - git branch -m new-branch-name old-branch-name //rename the branch name (m= message)
 
-####marge with master to other branch
+#### marge with master to other branch
 1- git checkout master
 2- git merge branch-name
 
