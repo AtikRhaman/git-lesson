@@ -37,7 +37,7 @@
 - git checkout -b branch name // create branch and switch at the same time
 - git branch -m branch-test test //rename the branch name (m= message)
 - git merge branch-name (i.e dev)  //to merge the branch with each other
-- git remote origin-name (i.e paypal) // discunnect the git origin
+- git remote rm origin-name (i.e paypal) // discunnect the git origin
 - git pull origin branch-name (i.e, dev) // pull from other branch
 - git push -d <remote_name> <branch_name> // to dellete a remote branch
 
