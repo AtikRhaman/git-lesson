@@ -28,18 +28,25 @@
 
 - git init //this comand for initializa the repository 
 - git status // to know the status of the repogit add filename (i.e. index.html) : file/directory add to the staging
-- git add . // add everythinggit commit -m "commit name" : to commitgit log : to see the log
+- git add . // add everything
+- git commit -m "commit name" : to commitgit
 - git remote add origin https://github.com/AtikRhaman/git-lesson.git
 - git push -u origin master
-- git branch  //To see where I am
+- git branch  //To see which branch I am in
 - git branch branch-name (i.e. branch-test)  //Create new branch
 - git checkout branch-name (i.e. branch-test)  //Swith to branch
 - git checkout -b branch name // create branch and switch at the same time
-- git branch -m branch-test test //rename the branch name (m= message)
 - git merge branch-name (i.e dev)  //to merge the branch with each other
-- git remote rm origin-name (i.e paypal) // discunnect the git origin
+- git remote rm origin-name (i.e paypal) // discunnect the git from remote
 - git pull origin branch-name (i.e, dev) // pull from other branch
-- git push -d <remote_name> <branch_name> // to dellete a remote branch
+- git push -d remote-name(i.e. origin) branch-name // to dellete a remote branch
+- git branch -m new-branch-name old-branch-name //rename the branch name (m= message)
+
+####marge with master to other branch
+1- git checkout master
+2- git merge branch-name
+
+
 
 
 # - Useful links 
