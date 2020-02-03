@@ -49,8 +49,9 @@
 
 
 
-# - Useful links 
+# - Useful links
 
+### https://gist.github.com/jedmao/5053440
 ### Introduction to git : https://github.com/Asabeneh/Git-and-Github
 ### Git and gitHub https://git-scm.com/book/en/v2
 ### Markdown cheat sheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
