@@ -41,6 +41,7 @@
 - git pull origin branch-name (i.e, dev) // pull from other branch
 - git push -d remote-name(i.e. origin) branch-name // to dellete a remote branch
 - git branch -m new-branch-name old-branch-name //rename the branch name (m= message)
+- git config --get remote.origin.url // to find the remote repository url
 
 #### marge with master to other branch
 - git checkout master
